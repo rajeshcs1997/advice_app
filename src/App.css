@@ -1,0 +1,24 @@
+.App{
+	margin: 50px;
+	height: 600px;
+	box-shadow: 10px 10px 8px 10px #888888;
+	background: url("./images/img.jpeg");
+
+} 
+h1{
+	color: #6666FF;
+}
+.Box{
+	margin: 12%;
+	display: flex;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+ }
+.Box1{
+	display: flex;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 23%;
+}
